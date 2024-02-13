@@ -93,9 +93,7 @@ button{
     color: #434455;
     background: #f4f4fd;
 }
-.advant-list{
-    background: #ffffff;
-}
+
 .second-title{
     font-weight: 700;
     font-size: 36px;
@@ -120,6 +118,9 @@ button{
 
     color: #2e2f42;
 
+}
+.names-list{
+    background-color: #ffffff;
 }
 .names{
     font-weight: 500;
