@@ -83,10 +83,9 @@ button{
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
+    background-color: #ffffff;
  }
-.list-advant{
-    background-color: #FFFFFF;
-}
+
 .team-sect{
     font-size: 16px;
     line-height: 1.5;
@@ -145,6 +144,10 @@ button{
 .portfolio{
     background-color: #FFFFFF;
     
+}
+.portfolio-part{
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
 .footer{
     font-size: 16px;
