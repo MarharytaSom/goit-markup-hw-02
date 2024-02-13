@@ -17,14 +17,14 @@ button{
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
-    line-height: 1.16667;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #2e2f42;
+    color: #4d5ae5;
 }
 
 .logo-part {
-    color: #4d5ae5;
+    color: #2e2f42;
 }
 
 .nav-link {
@@ -40,7 +40,9 @@ button{
 .nav-link:focus{
     color:#404bbf;
 }
-
+.address{
+    font-style: normal;
+}
 .address-link {
     font-size: 16px;
     line-height: 1.5;
@@ -54,42 +56,37 @@ button{
 .main-header{
     background: #2e2f42;
 }
-h1{
+.main-title{
     font-weight: 700;
     font-size: 56px;
-    line-height: 1.07143;
+    line-height: 1.07;
     letter-spacing: 0.02em;
     text-align: center;
     color: #fff;
 }
- button{
+ .button{
+    font-family: "Roboto", sans-serif
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #fff;
     background: #4d5ae5;
+    
 }
-button:hover,
-button:focus{
+.button:hover,
+.button:focus{
     background: #404bbf;
 }
 
- .advantages{
+ .advantages-sect{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
  }
-h3{
- 
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
-}
-.team{
+
+.team-sect{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -97,16 +94,31 @@ h3{
     color: #434455;
     background: #f4f4fd;
 }
-h2{
+.second-title{
     font-weight: 700;
     font-size: 36px;
-    line-height: 1.11111;
+    line-height: 1.11;
     letter-spacing: 0.02em;
     text-transform: capitalize;
     text-align: center;
     color: #2e2f42;
 }
-h3{
+.text-advantages{
+    font-size: 16px;
+    line-height: 1.5;
+    color: #434455;
+
+}
+.advant-titles{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+
+    color: #2e2f42;
+
+}
+.names{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -114,8 +126,14 @@ h3{
     
     color: #2e2f42;
 }
+.names-part{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+.portfolio-titles
 .portfolio{
-    background-color: #fff;
+    background-color: #FFFFFF;
     
 }
 .footer{
@@ -129,11 +147,11 @@ h3{
     font-family: "Raleway", sans-serif;
         font-weight: 700;
         font-size: 18px;
-        line-height: 1.16667;
+        line-height: 1.17;
         letter-spacing: 0.03em;
         text-transform: uppercase;
-        color: #f4f4fd;
+        color: #4d5ae5;
 }
 .footer-logo-part{
-    color: #4d5ae5;
+    color :#f4f4fd;
 }
