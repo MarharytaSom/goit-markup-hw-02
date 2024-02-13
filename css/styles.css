@@ -65,14 +65,13 @@ button{
     color: #fff;
 }
  .button{
-    font-family: "Roboto", sans-serif
+    font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #fff;
     background: #4d5ae5;
-    
 }
 .button:hover,
 .button:focus{
@@ -85,7 +84,9 @@ button{
     letter-spacing: 0.02em;
     color: #434455;
  }
-
+.list-advant{
+    background-color: #FFFFFF;
+}
 .team-sect{
     font-size: 16px;
     line-height: 1.5;
@@ -107,6 +108,7 @@ button{
     font-size: 16px;
     line-height: 1.5;
     color: #434455;
+    letter-spacing: 0.02em;
 
 }
 .advant-titles{
@@ -131,7 +133,15 @@ button{
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
-.portfolio-titles
+.portfolio-titles{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+        
+    color: #2e2f42;
+
+}
 .portfolio{
     background-color: #FFFFFF;
     
@@ -154,4 +164,11 @@ button{
 }
 .footer-logo-part{
     color :#f4f4fd;
+}
+.footer-part{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #f4f4fd;
+
 }
